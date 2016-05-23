@@ -29,4 +29,3 @@ Credits:
 		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
 		CSS3 Pie (css3pie.com)
 		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
