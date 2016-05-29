@@ -1,30 +1,16 @@
-Site Desing by HTML5 UP with slightly changes
+Source code of my personal website.
 
-Identity by HTML5 UP
-html5up.net | @n33co
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-Just a fun little profile/card-style template I whipped up during a break between major
-projects. Minimal, responsive, and powered by Skel + Sass. Enjoy :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-n33.co @n33co dribbble.com/n33
-
+See on: [Here](http://viniciusarnhold.me)
 
 Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+    Design:
+        Slightly modification of HTML5UP Identity's theme (html5up.com)
 
 	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
-
+		Font Awesome: (fortawesome.github.com/Font-Awesome)
+		Font CSS packed by : (fontastic.me)
+		
 	Other:
 		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
 		CSS3 Pie (css3pie.com)
